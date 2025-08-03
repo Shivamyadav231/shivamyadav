@@ -8,8 +8,9 @@ nltk
 scikit-learn
 pandas
 import nltk
-nltk.download('punkt')  # ← sahi resource yeh hai (not 'punkt_tab')
+nltk.download('punkt') 
 pip install something
+ pip install --upgrade pip
 
 
 certifi==2025.8.3
@@ -53,6 +54,7 @@ typing_extensions==4.14.1
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
+
 
 
 
